@@ -49,7 +49,7 @@ CLASSEND;
 
         $content = $classHead.$classBody.$classEnd;
 
-        $filename = app_path('Model/'.ucfirst($model_name).'php');
+        $filename = app_path('Model/'.ucfirst($model_name).'.php');
 
         file_put_contents($filename,$content);
 
