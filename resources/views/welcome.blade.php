@@ -84,8 +84,9 @@
 
                 <div class="links">
                     <a href="https://learnku.com/docs/laravel/5.5">laravel5.5中文文档</a>
+                    <a href="https://github.com/zjwForPHP/morty-laravel">GitHub</a>
+                    <a href="https://packagist.org/packages/morty/laravel">Packagist</a>
                     <a href="http://zhujunwei.top">关于我</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
         </div>
