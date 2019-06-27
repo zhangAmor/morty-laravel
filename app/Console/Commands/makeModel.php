@@ -12,7 +12,7 @@ class makeModel extends Command
      *
      * @var string
      */
-    protected $signature = 'tcis:makeModel {name} {pk}';
+    protected $signature = 'laravel:makeModel {name} {pk}';
 
     /**
      * The console command description.
